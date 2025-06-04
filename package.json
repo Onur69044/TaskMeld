@@ -1,0 +1,10 @@
+{
+  "name": "taskmeld",
+  "version": "0.1.0",
+  "description": "Compose OpenClaw agents into executable DAG workflows. CLI tool, REST + WebSocket API, and   React console included.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
