@@ -1,6 +1,6 @@
 {
   "name": "taskmeld",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "Compose OpenClaw agents into executable DAG workflows. CLI tool, REST + WebSocket API, and   React console included.",
   "main": "src/index.ts",
   "scripts": {
